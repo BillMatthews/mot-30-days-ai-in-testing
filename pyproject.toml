@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "mot-30-days-ai-in-testing"
+version = "0.1.0"
+description = ""
+authors = ["Bill Matthews <Bill.Matthews@targettesting.co.uk>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jupyter = "^1.0.0"
+transformers = "^4.39.1"
+bitsandbytes = "^0.43.0"
+sentence-transformers = "^2.6.0"
+accelerate = "^0.28.0"
+pandas = "^2.2.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
