@@ -34,3 +34,28 @@ In this walkthrough we will use an approach called Retrieval Augmented Generatio
 You can access this walkthrough via the following link: <a target="_blank" href="https://colab.research.google.com/github/BillMatthews/mot-30-days-ai-in-testing/blob/main/walkthrough/walkthrough-3-chatting-with-your-docs.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+# Diving Deeper
+If you want to learn more about building AI systems then these courses might be useful
+|Resouce|Description|Requires programming knowledge|Free|
+|---|---|---|---|
+|https://www.deeplearning.ai/courses/ai-for-everyone/|Introductory course on AI|No|No|
+|https://www.coursera.org/learn/generative-ai-for-everyone|Introductory course on Generative AI|No|No|
+|https://microsoft.github.io/AI-For-Beginners/| Microsoft's AI for Beginners Curriculum|Yes||Yes
+|https://github.com/microsoft/generative-ai-for-beginners| Microsoft's Generative AI for Beginners Curriculum|Yes|Yes|
+|https://learn.microsoft.com/en-gb/collections/mjqf5pw7epqpq| AI for Business Users|No|Yes|
+|https://learn.microsoft.com/en-gb/collections/dwkfmor6jqne7|AU for Business Leaders|No|Yes|
+|https://www.cloudskillsboost.google/course_templates/536| Introduction to Generative AI (Google)|No|Yes|
+|https://developers.google.com/machine-learning/resources|A collection of learning resources related to machine learning (Google)|Yes for some courses|Yes|
+
+If you have some Python knowlewdge are interested in diving deeper into building AI systems, here are some resouces that you might find useful:
+|Resouce|Description|Free|
+|---|---|---|
+|https://developers.google.com/machine-learning/crash-course| Google Machine Learning Crash Course|Yes|
+|https://cloud.google.com/learn/training/machinelearning-ai| Machine Learning on the Google Platform|Yes|
+|https://huggingface.co/learn/nlp-course| A Free course on using modern Transformers models to solve problems involving Natural Language|Yes|
+|https://python.langchain.com/docs/get_started/introduction|Getting Started with LangChain|Yes|
+|https://platform.openai.com/docs/introduction| OpenAI Developer Documentation|Yes|
+
+
+
